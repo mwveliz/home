@@ -1,2 +1,3 @@
-# portfolio
-My CV using cmd template
+# My CV
+
+https://mwveliz.github.io/home/
